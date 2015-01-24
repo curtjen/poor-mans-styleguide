@@ -1,0 +1,19 @@
+// Color variables:
+
+
+// Color assignments:
+$body-color: #383838;
+$body-back: transparent;
+$htag-color: #515151;
+
+
+// Styles
+
+body {
+  color: $body-color;
+  background: $body-back;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $htag-color;
+}
